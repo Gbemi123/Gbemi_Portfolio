@@ -8,7 +8,7 @@ Computer Vision and Machine learning projects
 - Repositions vehicle based on the lane markings to centre it
 - Model Tested on images and videos
 
-# Project 2: Possion image editing 
+# [Project 2: Possion image editing] (https://github.com/Gbemi123/Poisson-Editing)
 
 # Project 3: Classification using IRIS dataset 
 
