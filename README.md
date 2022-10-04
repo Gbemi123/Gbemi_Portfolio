@@ -1,8 +1,7 @@
 # Gbemi_Portfolio
 Computer Vision and Machine learning projects
 
-# [Project 1: Differentiable-Ray-tracing-for-optical-parts]
-(https://github.com/Gbemi123/Differentiable-Ray-tracing-for-optical-parts)
+# [Project 1: Differentiable-Ray-tracing-for-optical-parts](https://github.com/Gbemi123/Differentiable-Ray-tracing-for-optical-parts)
 
 # [Project 2: Detection of lane markings for autonomous vehicles](https://github.com/Gbemi123/Lane-marking-detection)
 - Created a lane detection model for autonomous vehicle
