@@ -2,10 +2,8 @@
 Computer Vision and Machine learning projects
 
 # [Project 1: Differentiable-Ray-tracing-for-optical-parts](https://github.com/Gbemi123/Differentiable-Ray-tracing-for-optical-parts)
-<p align="center">
-<img src=https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/9ac77260-1bd3-42ec-ad7b-67a11ffa8d4b>
 
-</p>
+<img align="centre" src=https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/9ac77260-1bd3-42ec-ad7b-67a11ffa8d4b>
 
 An optimization and computer graphics project that involved the use of the computer graphics library ODAK
 to ray trace a simulation of looking through an AR optical component made up of pinholes. The component is 
