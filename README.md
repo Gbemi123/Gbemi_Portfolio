@@ -26,7 +26,7 @@ Poisson image editing is a technique used to seamlessly blend together 2 images 
 
 # [Project 4: Deep Convolutional Generative Adversarial Networks for generating Pokemon](https://gakinolaalli.medium.com/generating-pokemon-with-dcgans-deep-convolutional-generative-adversarial-networks-79407630c10a)
 
-<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/62678fe5-7a8a-45fa-b246-66bbd7351689-.png">
+<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/53e95c35-848a-4a91-9c83-58f1c11ee0e8-.png">
 
 DCGANs are an updated version of generative adversarial networks that include the use of 
 deep convolutional layers. Using this technique, I created a model that generates new images
@@ -37,7 +37,7 @@ images of existing characters. [Code](https://github.com/Gbemi123/DCGAN-for-gene
 
 # [Project 5: Classifying Emotions](https://github.com/Gbemi123/Classifying-Emotions)
 
-<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/f2c43fc3-b3b1-4368-819c-27900d71c100-.png">
+<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/393b6f3d-3bac-49fa-aa33-297e93115008-.png">
 
 This project uses convolutional neural networks(CNN) and a Kaggle dataset with images of faces with various emotions to create a web app capable of classifying the user's feelings.
 The web app is hosted via Streamlit and the user can upload an image of their face and receive a prediction of a feeling based on that image. Below are some images from the dataset used for testing with the predicted (pred) and actual labels (label) shown
