@@ -3,7 +3,7 @@ Computer Vision and Machine learning projects
 
 # [Project 1: Differentiable-Ray-tracing-for-optical-parts](https://github.com/Gbemi123/Differentiable-Ray-tracing-for-optical-parts)
 
-<img align="centre" src="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/b7da1ded-828f-45e1-882e-8a45867dd303">
+<img align="centre" src="/Pimages/flowchart.jpg">
 
 An optimization and computer graphics project that involved the use of the computer graphics library ODAK
 to ray trace a simulation of looking through an AR optical component made up of pinholes. The component is 
@@ -19,14 +19,14 @@ the initially rendered images and the optimized images.
 
 # [Project 3: Poisson image editing](https://github.com/Gbemi123/Poisson-Editing)
 
-  <img align ="centre" src="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/105109e5-58a7-4f00-8d8d-ffb50f58bdfe-.png">
+  <img align ="centre" src="/Pimages/output2.jpg">
 
 Poisson image editing is a technique used to seamlessly blend together 2 images without artefacts. It is a type of digital image processing that operates on the differences between neighboring pixels, rather than on the pixel values directly. Poisson blending aims to copy the gradients of the source image into the destination image. 
 
 
 # [Project 4: Deep Convolutional Generative Adversarial Networks for generating Pokemon](https://gakinolaalli.medium.com/generating-pokemon-with-dcgans-deep-convolutional-generative-adversarial-networks-79407630c10a)
 
-<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/53e95c35-848a-4a91-9c83-58f1c11ee0e8-.jpg">
+<img align= "centre" src ="/Pimages/pokemon image.jpg">
 
 DCGANs are an updated version of generative adversarial networks that include the use of 
 deep convolutional layers. Using this technique, I created a model that generates new images
@@ -37,7 +37,7 @@ images of existing characters. [Code](https://github.com/Gbemi123/DCGAN-for-gene
 
 # [Project 5: Classifying Emotions](https://github.com/Gbemi123/Classifying-Emotions)
 
-<img align= "centre" src ="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/393b6f3d-3bac-49fa-aa33-297e93115008-.png">
+<img align= "centre" src ="Pimages/emotions imae.png">
 
 This project uses convolutional neural networks(CNN) and a Kaggle dataset with images of faces with various emotions to create a web app capable of classifying the user's feelings.
 The web app is hosted via Streamlit and the user can upload an image of their face and receive a prediction of a feeling based on that image. Below are some images from the dataset used for testing with the predicted (pred) and actual labels (label) shown
@@ -45,7 +45,7 @@ The web app is hosted via Streamlit and the user can upload an image of their fa
 
 # [Project 6: Generating Clothes Images with MNIST fashion dataset and GAN's](https://gakinolaalli.medium.com/generative-adversarial-networks-gans-with-mnist-fashion-dataset-42b076112a06)
 
-  <img width="363" alt="Screenshot 2023-03-29 002231" align="centre" src="https://github.com/Gbemi123/Gbemi_Portfolio/assets/92171342/1daf07f3-1947-4bb4-9e46-f7c2a67bb9eb">
+  <img width="363" align="centre" src="Pimages/Screenshot 2023-04-05 163001.png">
 
 A generative AI project that uses an unsupervised deep learning algorithm known as the generative Adversarial network. The popular computer vision dataset MNIST fashion dataset was used to train the model and the model generated images that were distinguishable from MNIST images. [code](https://github.com/Gbemi123/GANs-with-MNIST-Fashion-dataset)
 
