@@ -3,7 +3,7 @@ Computer Vision and Machine learning projects
 
 # [Project 1: Differentiable-Ray-tracing-for-optical-parts](https://github.com/Gbemi123/Differentiable-Ray-tracing-for-optical-parts)
 
-<img align="centre" src="/Pimages/flowchart.jpg">
+<img align="centre" src="Pimages/flowchart.jpg">
 
 An optimization and computer graphics project that involved the use of the computer graphics library ODAK
 to ray trace a simulation of looking through an AR optical component made up of pinholes. The component is 
@@ -19,14 +19,14 @@ the initially rendered images and the optimized images.
 
 # [Project 3: Poisson image editing](https://github.com/Gbemi123/Poisson-Editing)
 
-  <img align ="centre" src="/Pimages/output2.jpg">
+  <img align ="centre" src="Pimages/output2.jpg">
 
 Poisson image editing is a technique used to seamlessly blend together 2 images without artefacts. It is a type of digital image processing that operates on the differences between neighboring pixels, rather than on the pixel values directly. Poisson blending aims to copy the gradients of the source image into the destination image. 
 
 
 # [Project 4: Deep Convolutional Generative Adversarial Networks for generating Pokemon](https://gakinolaalli.medium.com/generating-pokemon-with-dcgans-deep-convolutional-generative-adversarial-networks-79407630c10a)
 
-<img align= "centre" src ="/Pimages/pokemon image.jpg">
+<img align= "centre" src ="Pimages/pokemon image.jpg">
 
 DCGANs are an updated version of generative adversarial networks that include the use of 
 deep convolutional layers. Using this technique, I created a model that generates new images
