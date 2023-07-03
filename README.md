@@ -45,7 +45,7 @@ The web app is hosted via Streamlit and the user can upload an image of their fa
 
 # [Project 6: Generating Clothes Images with MNIST fashion dataset and GAN's](https://gakinolaalli.medium.com/generative-adversarial-networks-gans-with-mnist-fashion-dataset-42b076112a06)
 
-  <img width="363" align="centre" src="Pimages/Screenshot 2023-04-05 163001.png">
+  <img width="363" align="centre" src="Pimages/Screenshot 2023-04-01 013642.png">
 
 A generative AI project that uses an unsupervised deep learning algorithm known as the generative Adversarial network. The popular computer vision dataset MNIST fashion dataset was used to train the model and the model generated images that were distinguishable from MNIST images. [code](https://github.com/Gbemi123/GANs-with-MNIST-Fashion-dataset)
 
